@@ -7,38 +7,7 @@ excerpt: ''
 layout: post
 guid: 'https://seandippold.com/?p=1329'
 permalink: /2022/12/19/paris-travel-recommendations/
-evolve_sidebar_position:
-    - default
-evolve_full_width:
-    - 'no'
-evolve_hundredp_padding:
-    - ''
-evolve_page_title:
-    - titlebar_breadcrumb
-evolve_page_title_bar_bg_color:
-    - ''
-evolve_page_title_bar_bg:
-    - ''
-evolve_page_title_bar_bg_retina:
-    - ''
-evolve_page_title_bar_full_bg:
-    - default
-evolve_page_title_bar_parallax_bg:
-    - default
-evolve_widget_page:
-    - 'no'
-evolve_slider_position:
-    - default
-evolve_slider_type:
-    - 'no'
-evolve_revslider:
-    - '0'
-evolve_wooslider:
-    - '0'
-sbg_selected_sidebar:
-    - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-    - 'a:1:{i:0;s:1:"0";}'
+
 categories:
     - Lazy
 format: false
@@ -83,4 +52,4 @@ TripAdvisor – attractions, reviews, tag places visited and want to visit.
 
 [Photos here](https://www.flickr.com/photos/40374486@N05/albums/72177720297757722)
 
-{% include embed/youtube.html id='bhsbwKo4Oto </div></figure>{% include embed/youtube.html id='mICtHsZGhIw </div></figure>
+{% include embed/youtube.html id='bhsbwKo4Oto' %}
