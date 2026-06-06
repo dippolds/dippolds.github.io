@@ -91,4 +91,4 @@ Not all public but here are some we created
 
 Photos - [2022](https://www.flickr.com/photos/40374486@N05/albums/72177720299737545), [2019](https://www.flickr.com/photos/40374486@N05/albums/72157710377166092), [2018](https://www.flickr.com/photos/40374486@N05/albums/72157693745821665)
 
-{% include embed/youtube.html id='IokUZeZjov4 </div></figure>
+{% include embed/youtube.html id='IokUZeZjov4' %}
