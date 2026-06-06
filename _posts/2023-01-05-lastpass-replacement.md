@@ -58,4 +58,4 @@ LastPass recently announced [that customer password vaults were stolen over the 
 - The accounts that are critical like Google email &amp; bank accounts have their own MFA enabled so even if someone cracks my LastPass vault, what they have access to isn't valuable.
 - People who only use Apple products should consider migrating their password manager to the free [Apple Keychain feature ](https://osxdaily.com/2022/07/22/import-passwords-icloud-keychain-mac/)
 
-<figure class="wp-block-image size-large">![](https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/web-vault-macbook.png)</figure>
+![Desktop View](https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/web-vault-macbook.png)</figure>

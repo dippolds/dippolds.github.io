@@ -59,4 +59,4 @@ This workflow works for a large number of short clips.
 11. Add titles (mostly lower thirds). Mark M if you want to have as chapters.
 12. Share
 
-<figure class="wp-block-image size-large">![](/assets/img/uploads/2022/04/finalcut-workflow-1024x788.png)</figure>
+![Desktop View](/assets/img/uploads/2022/04/finalcut-workflow-1024x788.png)</figure>
