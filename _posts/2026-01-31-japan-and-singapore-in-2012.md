@@ -35,4 +35,4 @@ Gion District: The historic, lantern-lit district famous for its traditional woo
 
 Snow Monkey park - walk around with the snow monkeys. To feed them, you get into a cage. <https://en.japantravel.com/kyoto/kyoto-s-wild-monkey-park/20734>
 
-{% include embed/youtube.html id='8WqOY8QwkGw </div></figure>
+{% include embed/youtube.html id='8WqOY8QwkGw' %}
