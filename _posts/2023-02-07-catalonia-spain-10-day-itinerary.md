@@ -72,7 +72,7 @@ We stayed at both hotels and apartments booked through Bookings.com and AirBnB. 
 
 38 minutes with a map at the end.
 
-{% include embed/youtube.html id='rXHpj5NuUmM' %} Tools
+{% include embed/youtube.html id='rXHpj5NuUmM' %}  Tools
 
 Booking.com – convenient way to find and book hotels and apartments  
 AirBnB - 2 places  
