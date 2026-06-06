@@ -27,7 +27,7 @@ Harajuku: Explore Takeshita Street for quirky fashion, street food, and animal c
 Asakusa &amp; Senso-ji Temple: Tokyo's oldest temple, Nakamise-dori market, and traditional atmosphere.  
 Akihabara: The electric town for anime, manga, electronics, and gaming culture.
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-travel-dudes wp-block-embed-travel-dudes"><div class="wp-block-embed__wrapper">https://traveldudes.com/yodobashi-akiba-the-worlds-largest-electronics-store-is-in-tokyo/ </div></figure>## Kyoto
+<figure class="wp-block-embed is-type-wp-embed is-provider-travel-dudes wp-block-embed-travel-dudes"><div class="wp-block-embed__wrapper">https://traveldudes.com/yodobashi-akiba-the-worlds-largest-electronics-store-is-in-tokyo/' %} Kyoto
 
 Kinkaku-ji (Golden Pavilion): A Zen temple whose top two floors are completely covered in gold leaf.  
 Kiyomizu-dera Temple: A UNESCO World Heritage site known for its large wooden stage offering panoramic city views.  
@@ -35,4 +35,4 @@ Gion District: The historic, lantern-lit district famous for its traditional woo
 
 Snow Monkey park - walk around with the snow monkeys. To feed them, you get into a cage. <https://en.japantravel.com/kyoto/kyoto-s-wild-monkey-park/20734>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=8WqOY8QwkGw </div></figure>
+{% include embed/youtube.html id='8WqOY8QwkGw </div></figure>

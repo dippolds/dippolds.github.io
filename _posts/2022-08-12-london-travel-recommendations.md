@@ -60,7 +60,7 @@ Everywhere is touchless credit cards. Forget magnetic strips and chip cards are 
 
 So many lists out there but first timers at least should see the Tower of London, the National Gallery and the British museum. Most museums are free so you could hit more and see less at each one. Although we minimize pre-trip planning, watching a few Youtube videos about specific works and then seeing the works when you are there can make a huge impact on the site.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=zYk0GH5iFYI </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=alWbBuPahN0 </div></figure>## See - Minor Sites
+{% include embed/youtube.html id='zYk0GH5iFYI </div></figure>{% include embed/youtube.html id='alWbBuPahN0' %} See - Minor Sites
 
 There are a number lessor known sites in London that are appealing to specific audiences and may be even more memorable than the big sites depending on your perspective. Here are a few;
 
@@ -91,4 +91,4 @@ Not all public but here are some we created
 
 Photos - [2022](https://www.flickr.com/photos/40374486@N05/albums/72177720299737545), [2019](https://www.flickr.com/photos/40374486@N05/albums/72157710377166092), [2018](https://www.flickr.com/photos/40374486@N05/albums/72157693745821665)
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=IokUZeZjov4 </div></figure>
+{% include embed/youtube.html id='IokUZeZjov4 </div></figure>

@@ -83,4 +83,4 @@ TripAdvisor – attractions, reviews, tag places visited and want to visit.
 
 [Photos here](https://www.flickr.com/photos/40374486@N05/albums/72177720297757722)
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=bhsbwKo4Oto </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=mICtHsZGhIw </div></figure>
+{% include embed/youtube.html id='bhsbwKo4Oto </div></figure>{% include embed/youtube.html id='mICtHsZGhIw </div></figure>
