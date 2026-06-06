@@ -60,7 +60,7 @@ Everywhere is touchless credit cards. Forget magnetic strips and chip cards are 
 
 So many lists out there but first timers at least should see the Tower of London, the National Gallery and the British museum. Most museums are free so you could hit more and see less at each one. Although we minimize pre-trip planning, watching a few Youtube videos about specific works and then seeing the works when you are there can make a huge impact on the site.
 
-{% include embed/youtube.html id='zYk0GH5iFYI </div></figure>{% include embed/youtube.html id='alWbBuPahN0' %} See - Minor Sites
+{% include embed/youtube.html id='alWbBuPahN0' %} See - Minor Sites
 
 There are a number lessor known sites in London that are appealing to specific audiences and may be even more memorable than the big sites depending on your perspective. Here are a few;
 
