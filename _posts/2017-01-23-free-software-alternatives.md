@@ -24,4 +24,4 @@ I am happy to pay for quality software. More software companies are changing fro
 | [GIMP](https://www.gimp.org/) | Adobe Photoshop | Mac/PC/Linux |  |
 | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Final Cut Pro | Mac/PC/Linux | Requires registration |
 
- Additional [recommendations are available at Lifehacker](http://lifehacker.com/top-10-free-alternatives-to-expensive-software-1791300629). \[caption id="" align="aligncenter" width="1440"\][![](http://www.darktable.org/wp-content/uploads/2011/07/screenshot-2.png)](http://www.darktable.org) darktable - alternative to Lightroom for photo management\[/caption\]
+ Additional [recommendations are available at Lifehacker](http://lifehacker.com/top-10-free-alternatives-to-expensive-software-1791300629). \[caption id="" align="aligncenter" width="1440"\][![](http://www.darktable.org/assets/img/uploads/2011/07/screenshot-2.png)](http://www.darktable.org) darktable - alternative to Lightroom for photo management\[/caption\]

@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-[1962 St Mary’s Area High School Yearbook The Bells](/wp-content/uploads/2015/04/1962-The-Bells-St-Marys-Area-High-School-Yearbook.pdf) [![1962 The Bells St Marys Area High School Yearbook Cover](/wp-content/uploads/2015/04/1962-The-Bells-St-Marys-Area-High-School-Yearbook-Cover-212x300.png)](/wp-content/uploads/2015/04/1962-The-Bells-St-Marys-Area-High-School-Yearbook.pdf) PDF scan has been OCR'd to be searchable but is 13MB in size.
+[1962 St Mary’s Area High School Yearbook The Bells](/assets/img/uploads/2015/04/1962-The-Bells-St-Marys-Area-High-School-Yearbook.pdf) [![1962 The Bells St Marys Area High School Yearbook Cover](/assets/img/uploads/2015/04/1962-The-Bells-St-Marys-Area-High-School-Yearbook-Cover-212x300.png)](/assets/img/uploads/2015/04/1962-The-Bells-St-Marys-Area-High-School-Yearbook.pdf) PDF scan has been OCR'd to be searchable but is 13MB in size.

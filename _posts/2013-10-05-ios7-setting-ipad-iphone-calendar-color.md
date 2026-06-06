@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-It is not exactly intuitive how to set the color of calendar events in IOS7 but it is easy. 1. [![20131005-123048.jpg](/wp-content/uploads/2013/10/20131005-123048.jpg)](/wp-content/uploads/2013/10/20131005-123048.jpg) 2. [![20131005-123119.jpg](/wp-content/uploads/2013/10/20131005-123119.jpg)](/wp-content/uploads/2013/10/20131005-123119.jpg)
+It is not exactly intuitive how to set the color of calendar events in IOS7 but it is easy. 1. [![20131005-123048.jpg](/assets/img/uploads/2013/10/20131005-123048.jpg)](/assets/img/uploads/2013/10/20131005-123048.jpg) 2. [![20131005-123119.jpg](/assets/img/uploads/2013/10/20131005-123119.jpg)](/assets/img/uploads/2013/10/20131005-123119.jpg)

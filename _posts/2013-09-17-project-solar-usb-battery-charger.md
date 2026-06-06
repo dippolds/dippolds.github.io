@@ -25,5 +25,5 @@ format: false
 
  [Switching Regulator](http://dx.com/p/mini-dc-dc-voltage-stabilizer-regulator-module-red-126106) $4 [Solar panel](http://www.harborfreight.com/solar-panel-kit-45-watt-68751.html) $70 (1/3 of $200) - had these laying around - could have gone smaller USB hub ~$2 USB battery pack ~$10 wire to solar panel (included in panel) USB cable to battery pack solder Velcro with adhesive #### Design
 
- Inspired by [this Instructable](http://www.instructables.com/id/DIY-Portable-USB-Solar-Charger-20-4-Ports/?ALLSTEPS)<div>[![](/wp-content/uploads/2013/10/Solar+USB+charger.png)](http://3.bp.blogspot.com/-uJkoQwRbuG4/UjjZhzLZdaI/AAAAAAAAAS8/2I-uolV4-IE/s1600/Solar+USB+charger.png)</div> Plug in to the USB hub to charge or power devices. 
+ Inspired by [this Instructable](http://www.instructables.com/id/DIY-Portable-USB-Solar-Charger-20-4-Ports/?ALLSTEPS)<div>[![](/assets/img/uploads/2013/10/Solar+USB+charger.png)](http://3.bp.blogspot.com/-uJkoQwRbuG4/UjjZhzLZdaI/AAAAAAAAAS8/2I-uolV4-IE/s1600/Solar+USB+charger.png)</div> Plug in to the USB hub to charge or power devices. 
 </div>

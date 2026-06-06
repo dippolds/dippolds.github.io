@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-[![movie](/wp-content/uploads/2013/10/movie.jpg)](/wp-content/uploads/2013/10/movie.jpg)1940's household items were found deep in [Ukrainian caves](http://en.wikipedia.org/wiki/Priest's_Grotto) in the 1990's and the North American people who lived in the caves explain why. IMDB 2012 - [No Place on Earth](http://www.imdb.com/title/tt2343266/)
+[![movie](/assets/img/uploads/2013/10/movie.jpg)](/assets/img/uploads/2013/10/movie.jpg)1940's household items were found deep in [Ukrainian caves](http://en.wikipedia.org/wiki/Priest's_Grotto) in the 1990's and the North American people who lived in the caves explain why. IMDB 2012 - [No Place on Earth](http://www.imdb.com/title/tt2343266/)

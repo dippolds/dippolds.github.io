@@ -26,4 +26,4 @@ In Finder, mount the network volume In Terminal <span class="s1">$ ls </span><sp
 
 Example screenshot showing volume path
 
-![crashplan_backup_volume](/wp-content/uploads/2016/10/crashplan_backup_volume.jpg)
+![crashplan_backup_volume](/assets/img/uploads/2016/10/crashplan_backup_volume.jpg)

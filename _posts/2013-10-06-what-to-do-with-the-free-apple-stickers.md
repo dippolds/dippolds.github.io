@@ -14,6 +14,6 @@ format: false
 
 Grab a knife and draw   
   
-[![20131006-133042.jpg](/wp-content/uploads/2013/10/20131006-133042.jpg)](/wp-content/uploads/2013/10/20131006-133042.jpg)  
+[![20131006-133042.jpg](/assets/img/uploads/2013/10/20131006-133042.jpg)](/assets/img/uploads/2013/10/20131006-133042.jpg)  
   
-[![20131006-133055.jpg](/wp-content/uploads/2013/10/20131006-133055.jpg)](/wp-content/uploads/2013/10/20131006-133055.jpg)
+[![20131006-133055.jpg](/assets/img/uploads/2013/10/20131006-133055.jpg)](/assets/img/uploads/2013/10/20131006-133055.jpg)

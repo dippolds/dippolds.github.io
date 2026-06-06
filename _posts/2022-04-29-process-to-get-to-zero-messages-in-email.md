@@ -44,4 +44,4 @@ categories:
 format: false
 ---
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2022/04/email-process.png)<figcaption>Do one of these actions for each email you receive. </figcaption></figure>
+<figure class="wp-block-image size-full">![](/assets/img/uploads/2022/04/email-process.png)<figcaption>Do one of these actions for each email you receive. </figcaption></figure>

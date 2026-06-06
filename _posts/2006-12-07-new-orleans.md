@@ -18,4 +18,4 @@ categories:
 format: false
 ---
 
-[![](/wp-content/uploads/2013/10/132660389-S.jpg)](/wp-content/uploads/2013/10/132660389-S.jpg) Low hotel prices in New Orleans in December prompted a last-minute vacation in the cresent city. Katrina left the tourist areas alone but significantly reduced tourism. We returned encouraging everyone to travel to New Orleans to enjoy the usual pleasures (food, hospitality, sites) with the added benefit of feeling that, in a very small way, your dollars are going to help this national treasure. [Pictures](http://dippy.smugmug.com/gallery/2520836)
+[![](/assets/img/uploads/2013/10/132660389-S.jpg)](/assets/img/uploads/2013/10/132660389-S.jpg) Low hotel prices in New Orleans in December prompted a last-minute vacation in the cresent city. Katrina left the tourist areas alone but significantly reduced tourism. We returned encouraging everyone to travel to New Orleans to enjoy the usual pleasures (food, hospitality, sites) with the added benefit of feeling that, in a very small way, your dollars are going to help this national treasure. [Pictures](http://dippy.smugmug.com/gallery/2520836)

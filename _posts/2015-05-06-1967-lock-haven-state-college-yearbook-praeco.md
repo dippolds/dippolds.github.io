@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-[1967 Lock Haven State College Yearbook Praeco](/wp-content/uploads/2015/05/1967-Lock-Haven-State-College-Yearbook-Praeco.pdf) [![1967 Lock Haven State College Yearbook Praeco Cover](/wp-content/uploads/2015/05/1967-Lock-Haven-State-College-Yearbook-Praeco-Cover-232x300.png)](/wp-content/uploads/2015/05/1967-Lock-Haven-State-College-Yearbook-Praeco.pdf) 29MB PDF scanned with OCR
+[1967 Lock Haven State College Yearbook Praeco](/assets/img/uploads/2015/05/1967-Lock-Haven-State-College-Yearbook-Praeco.pdf) [![1967 Lock Haven State College Yearbook Praeco Cover](/assets/img/uploads/2015/05/1967-Lock-Haven-State-College-Yearbook-Praeco-Cover-232x300.png)](/assets/img/uploads/2015/05/1967-Lock-Haven-State-College-Yearbook-Praeco.pdf) 29MB PDF scanned with OCR

@@ -14,6 +14,6 @@ format: false
 
   
   
-[![20140406-125212.jpg](/wp-content/uploads/2014/04/20140406-125212.jpg)](/wp-content/uploads/2014/04/20140406-125212.jpg)  
+[![20140406-125212.jpg](/assets/img/uploads/2014/04/20140406-125212.jpg)](/assets/img/uploads/2014/04/20140406-125212.jpg)  
   
-[![20140406-125231.jpg](/wp-content/uploads/2014/04/20140406-125231.jpg)](/wp-content/uploads/2014/04/20140406-125231.jpg)National Gallery Museum, NYC
+[![20140406-125231.jpg](/assets/img/uploads/2014/04/20140406-125231.jpg)](/assets/img/uploads/2014/04/20140406-125231.jpg)National Gallery Museum, NYC

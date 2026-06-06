@@ -12,7 +12,7 @@ categories:
 format: false
 ---
 
-Google has a service called Feedburner that allows people to subscribe to getting an email when new posts appear on a blog. Google hasn't been improving the service and there are better services available, namely MailChimp and ConstantContact. [![](/wp-content/uploads/2017/06/feedburner.png)](/wp-content/uploads/2017/06/feedburner.png) For low volumes of subscribers and emails, MailChimp is free so it makes most sense for a small blog. The conversion steps are pretty straightforward;
+Google has a service called Feedburner that allows people to subscribe to getting an email when new posts appear on a blog. Google hasn't been improving the service and there are better services available, namely MailChimp and ConstantContact. [![](/assets/img/uploads/2017/06/feedburner.png)](/assets/img/uploads/2017/06/feedburner.png) For low volumes of subscribers and emails, MailChimp is free so it makes most sense for a small blog. The conversion steps are pretty straightforward;
 
 1. Export your subscribers list from Feedburner (Publicize, About Subscribers, Export CSV).
 2. Create a MailChimp account and create a list. Import the CSV file.

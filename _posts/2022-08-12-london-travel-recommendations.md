@@ -48,7 +48,7 @@ format: false
 
 There are many great neighborhoods in London. Our favorite area to stay is around Notting Hill and Kensington Gardens. Notting Hill Gate tube station is close as is the north-west corner of Hyde Park. Portobello Road is near and the area is tree-lined and classical London 4-story buildings with some good apartment options. Both Booking.com and AirBnB have nice flats at a reasonable price by London standards. If you are last-minute booking, [Vincent House](https://vincenthouselondon.com/#about) is a good option as it has more character than a normal hotel. Still recommend a flat to get a more local experience.
 
-<figure class="wp-block-image size-large">![](/wp-content/uploads/2022/08/London-NottinghillGate-1024x682.png)</figure>## Transportation
+<figure class="wp-block-image size-large">![](/assets/img/uploads/2022/08/London-NottinghillGate-1024x682.png)</figure>## Transportation
 
 From London Heathrow, take the Tube to the city. Cheaper and more crowded but gets you acclimated right away into using the Tube. Once in London, use Google Maps to get anywhere. Maps will recommend both Tube and bus transport. Sometimes buses are faster depending on where you are going. Most are double-decker so there is no need to try a tourist bus (unless your time is limited and you want to hit many sites). [Tickets? Get Apple Wallet](https://www.apple.com/uk/apple-pay/transport/) or Google Wallet setup with your credit card so you [don't have to worry about tickets or cards](https://support.apple.com/en-us/HT207958).
 

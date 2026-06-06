@@ -14,4 +14,4 @@ format: false
 
 Just like in your favorite Indian restaurant. 1 large white onion, chopped 1 teaspoon sweet paprika 1/2 teaspoon ground cumin 1/2 teaspoon salt 2 teaspoon of tomato ketchup Mix and put in the refrigerator for 1 hour or more.   
   
-[![IMG_4284.JPG](/wp-content/uploads/2014/12/IMG_4284.jpg)](/wp-content/uploads/2014/12/IMG_4284.jpg)
+[![IMG_4284.JPG](/assets/img/uploads/2014/12/IMG_4284.jpg)](/assets/img/uploads/2014/12/IMG_4284.jpg)

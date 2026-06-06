@@ -37,6 +37,6 @@ Publishers often ask non-fiction book authors to create an [index](https://en.wi
 2. Select the generated index and copy it. In the blank Word document, Paste Values to avoid the index being recalculated on a blank document.
 3. Save and provide this document to the publisher.
  
- Versions of Microsoft Word The menu commands vary between different version of Word. For example, Word 2008 on Mac uses Insert, Index and Tables to both mark entries and generate the index. [![](/wp-content/uploads/2017/03/Word_2008_Index.png)](/wp-content/uploads/2017/03/Word_2008_Index.png)### Other Tools
+ Versions of Microsoft Word The menu commands vary between different version of Word. For example, Word 2008 on Mac uses Insert, Index and Tables to both mark entries and generate the index. [![](/assets/img/uploads/2017/03/Word_2008_Index.png)](/assets/img/uploads/2017/03/Word_2008_Index.png)### Other Tools
 
  Adobe Acrobat Pro - has an indexing feature but this has nothing to do with book indexs Google Docs - doesn't support indexing, only table of contents based on header levels [PDF Index Generator](https://www.pdfindexgenerator.com/) - $70 specialized tool for creating indexes from PDF files Converting from PDF to Work is not likely to work cleanly due to PDF formatting

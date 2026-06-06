@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-Quick decision tree and instructions on using a mobile phone internationally. Find out if my phone will work - [willmyphonework.net](http://willmyphonework.net/) Find out what carriers and prices are for a country - [prepaid-data-sim-card.wikia.com](http://prepaid-data-sim-card.wikia.com/) ![decision-international-mobile-phone](/wp-content/uploads/2016/11/Decision-international-mobile-phone.png)
+Quick decision tree and instructions on using a mobile phone internationally. Find out if my phone will work - [willmyphonework.net](http://willmyphonework.net/) Find out what carriers and prices are for a country - [prepaid-data-sim-card.wikia.com](http://prepaid-data-sim-card.wikia.com/) ![decision-international-mobile-phone](/assets/img/uploads/2016/11/Decision-international-mobile-phone.png)

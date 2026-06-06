@@ -18,4 +18,4 @@ Few would argue that the sandwich was one of the most important culinary creatio
 
 Toasted and buttered bread sandwiched with Sliced Turkey Cranberry chutney Moist stuffing (*that is the innovation*) Served with a side of sliced apples and dipping carmel. Messy and Amazing. T.E.D. stands for Thanksgiving Every Day. [Generoasta](http://www.generoasta.com/) is a local coffee shop outside of Pittsburgh with an interesting twist. Every purchase gives the customer a coin in which they can choose which of 3 charities the shop will donate your portion to. Displays provide information about the charities that make your pick an informed decision and the charities change from time to time.  
   
-[![20131025-143859.jpg](/wp-content/uploads/2013/10/20131025-143859.jpg)](/wp-content/uploads/2013/10/20131025-143859.jpg)
+[![20131025-143859.jpg](/assets/img/uploads/2013/10/20131025-143859.jpg)](/assets/img/uploads/2013/10/20131025-143859.jpg)

@@ -24,7 +24,7 @@ The cost of a badminton or volleyball set increases with the durability of the p
 
  2 x 8' 1-5/8"X8' 16GA Line Post (galvanized pipe used for making chain link fences) $32 2 x 1-5/8" Line Post Eye Top (end caps for line post) $4 4 x 2" corner brace (connect post to net)$7 2 x 3/4"x5' iron pipe (cut 10' pipe in half) $13 2 x 44 lbs. lifting weight or umbrella stand (optional) - $20-$60 ## Tools
 
- Stepladder level sledge hammer measuring tape ## [![IMG_4975.JPG](/wp-content/uploads/2015/07/IMG_4975-300x225.jpg)](/wp-content/uploads/2015/07/IMG_4975-e1436223135269.jpg)
+ Stepladder level sledge hammer measuring tape ## [![IMG_4975.JPG](/assets/img/uploads/2015/07/IMG_4975-300x225.jpg)](/assets/img/uploads/2015/07/IMG_4975-e1436223135269.jpg)
 
 ## Directions
 
@@ -32,4 +32,4 @@ The cost of a badminton or volleyball set increases with the durability of the p
 2. If using the optional weight, place that over the iron pole.
 3. Once the iron pipe is in the ground about a foot down, put the line post over top of the iron pipe and top it with the end caps.
 4. Attach the net using the braces.
-5. If there is a rattle with the outer pipe, use a small sliver of wood to shim.[![IMG_4974.JPG](/wp-content/uploads/2015/07/IMG_4974-300x225.jpg)](/wp-content/uploads/2015/07/IMG_4974.jpg)
+5. If there is a rattle with the outer pipe, use a small sliver of wood to shim.[![IMG_4974.JPG](/assets/img/uploads/2015/07/IMG_4974-300x225.jpg)](/assets/img/uploads/2015/07/IMG_4974.jpg)

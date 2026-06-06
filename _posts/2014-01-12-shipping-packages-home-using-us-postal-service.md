@@ -16,7 +16,7 @@ Shipping packages through the US Post Office from your house can be affordable a
 
 ## Steps to ship from home
 
- Requires a computer/smartphone, a printer and a scale accurate to an ounce. 1. Goto [USPS Click-N-Ship](https://cns.usps.com/go). The first time will require registration for a userid/password 2. Fill out the destination address and package weight information 3. Select shipment method and schedule a pickup. Only seems to allow priority mail and priority mail express.[![usps shipping box](/wp-content/uploads/2014/01/usps-shipping-box.png)](/wp-content/uploads/2014/01/usps-shipping-box.png) 4. Pay and printout the shipping label (that includes postage) and tape to the package. 5. Put out for your carrier. Ideally, ask the postman the best location to leave packages. ## Benefits/Downsides
+ Requires a computer/smartphone, a printer and a scale accurate to an ounce. 1. Goto [USPS Click-N-Ship](https://cns.usps.com/go). The first time will require registration for a userid/password 2. Fill out the destination address and package weight information 3. Select shipment method and schedule a pickup. Only seems to allow priority mail and priority mail express.[![usps shipping box](/assets/img/uploads/2014/01/usps-shipping-box.png)](/assets/img/uploads/2014/01/usps-shipping-box.png) 4. Pay and printout the shipping label (that includes postage) and tape to the package. 5. Put out for your carrier. Ideally, ask the postman the best location to leave packages. ## Benefits/Downsides
 
  + There is a discount on online postage (%14) - Some shipping options aren't available (standard post and media mail). Standard mail never seems to be cheaper but media mail (books, DVDs) is often significantly cheaper (and slower). ## Selling on eBay and Amazon
 

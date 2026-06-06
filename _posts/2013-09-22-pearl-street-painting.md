@@ -18,7 +18,7 @@ categories:
 format: false
 ---
 
-<div dir="ltr">A day of volunteering for the [Philadelphia Mural arts](http://www.muralarts.org/) program resulted in a painted 1200 block of Pearl Street. | [![](/wp-content/uploads/2013/10/DSC_0079.jpg)](http://1.bp.blogspot.com/-Izao1m_m8wE/Uj8uHK56pzI/AAAAAAAAAUI/9J6QqhuSvsI/s1600/DSC_0079.JPG) |
+<div dir="ltr">A day of volunteering for the [Philadelphia Mural arts](http://www.muralarts.org/) program resulted in a painted 1200 block of Pearl Street. | [![](/assets/img/uploads/2013/10/DSC_0079.jpg)](http://1.bp.blogspot.com/-Izao1m_m8wE/Uj8uHK56pzI/AAAAAAAAAUI/9J6QqhuSvsI/s1600/DSC_0079.JPG) |
 |---|
 | 21-September 2013 1200 Block of Pearl Street, Philadelphia |
 

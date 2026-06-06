@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-Scanned and OCR version of the [1958 St Mary's Area High School yearbook called The Bells](/wp-content/uploads/2015/04/1958-The-Bells-St-Marys-Area-High-School-Yearbook.pdf). [![1958 The Bells St Marys Area High School Yearbook Cover](/wp-content/uploads/2015/04/1958-The-Bells-St-Marys-Area-High-School-Yearbook-Cover-212x300.png)](/wp-content/uploads/2015/04/1958-The-Bells-St-Marys-Area-High-School-Yearbook.pdf)
+Scanned and OCR version of the [1958 St Mary's Area High School yearbook called The Bells](/assets/img/uploads/2015/04/1958-The-Bells-St-Marys-Area-High-School-Yearbook.pdf). [![1958 The Bells St Marys Area High School Yearbook Cover](/assets/img/uploads/2015/04/1958-The-Bells-St-Marys-Area-High-School-Yearbook-Cover-212x300.png)](/assets/img/uploads/2015/04/1958-The-Bells-St-Marys-Area-High-School-Yearbook.pdf)

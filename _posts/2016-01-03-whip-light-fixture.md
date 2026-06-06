@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
- [![](/wp-content/uploads/2016/01/img_0350.jpeg)](/wp-content/uploads/2016/01/img_0350.jpeg)
+ [![](/assets/img/uploads/2016/01/img_0350.jpeg)](/assets/img/uploads/2016/01/img_0350.jpeg)

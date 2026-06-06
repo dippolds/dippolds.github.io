@@ -48,7 +48,7 @@ format: false
 
 We prefer to stay around Les Halle or the Marais in the heart of Paris. AirBnB and Booking.com both have a lot of choice depending on your taste. We tend to like an apartment to add to the charm of Paris. Ideally, be closer to the river. Many major sites, restaurants, and shopping are all in walking distance.
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2022/12/paris-stay-location.png)</figure>## Transportation
+<figure class="wp-block-image size-full">![](/assets/img/uploads/2022/12/paris-stay-location.png)</figure>## Transportation
 
 A train goes from the airport to Les Halle station making arrival easy. Use Google Maps to get anywhere via Metro. Tickets? Get Apple Wallet or Google Wallet setup with your credit card so you don’t have to worry about tickets or cards. Note that [full adoption of your phone for the Metro is ongoing in 2023](https://9to5mac.com/2022/02/19/apple-pay-transit-support-widely-expanding-in-france-starting-in-2023/).
 

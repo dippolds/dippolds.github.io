@@ -18,7 +18,7 @@ Our house has about 15 wifi devices between phones, computers, tablets, security
 
  Currently using relatively old Apple Airport Express and Timecapsule (1st generation). These devices do have the N protocol but have limited antenna flexibility. Apple hotspots are generally about 2-times the price of other devices but generally easier to configure and paying $100 rather than $50 may be worth less aggravation. Recommend if possible staying with the same manufacturer for all devices as configuration can be significantly different vendor to vendor. ## Placement
 
- Tried to keep each hotspot (HS in diagram) to 1 wall or floor distance from a device. [![PechinsPost Wifi Hotspot placement](/wp-content/uploads/2013/12/PechinsPost-Wifi-Hotspot-placement.png)](/wp-content/uploads/2013/12/PechinsPost-Wifi-Hotspot-placement.png)## Configuration
+ Tried to keep each hotspot (HS in diagram) to 1 wall or floor distance from a device. [![PechinsPost Wifi Hotspot placement](/assets/img/uploads/2013/12/PechinsPost-Wifi-Hotspot-placement.png)](/assets/img/uploads/2013/12/PechinsPost-Wifi-Hotspot-placement.png)## Configuration
 
  Each hotspot is wired by ethernet. Each hotspot is configured to be [roaming](http://support.apple.com/kb/HT4260) except for the primary base station. Changed each hotspot to use one channel (1 or 6 or 11) so there is no conflict. The automatic setting set by default may work just as well. ## Interference
 
@@ -33,7 +33,7 @@ Our house has about 15 wifi devices between phones, computers, tablets, security
 4. Click **Wi-Fi Scan** to show all Wifi access points and their signal strength and recommended available channels.
 5. Click **Performance** to show a continuous graph of signal to noise ratio (SNR). Note how it changes as devices like microwaves are used to isolate the troublesome interference.
  
- [![wifi performance](/wp-content/uploads/2013/12/wifi-performance.png)](/wp-content/uploads/2013/12/wifi-performance.png) In this time period, the SNR was between 35 and 42. The [reference provides](http://www.enterprisenetworkingplanet.com/netsp/article.php/3747656/WiFi-Define-Minimum-SNR-Values-for-Signal-Coverage.htm) a key to provide insight; - &gt; 40dB SNR = Excellent signal (5 bars); always associated; lightning fast.
+ [![wifi performance](/assets/img/uploads/2013/12/wifi-performance.png)](/assets/img/uploads/2013/12/wifi-performance.png) In this time period, the SNR was between 35 and 42. The [reference provides](http://www.enterprisenetworkingplanet.com/netsp/article.php/3747656/WiFi-Define-Minimum-SNR-Values-for-Signal-Coverage.htm) a key to provide insight; - &gt; 40dB SNR = Excellent signal (5 bars); always associated; lightning fast.
 - 25dB to 40dB SNR = Very good signal (3 - 4 bars); always associated; very fast.
 - 15dB to 25dB SNR = Low signal (2 bars); always associated; usually fast.
 - 10dB - 15dB SNR = Very low signal (1 bar); mostly associated; mostly slow.

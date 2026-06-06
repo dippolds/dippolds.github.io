@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-[1963 Alfred University Yearbook Kanakadea](/wp-content/uploads/2015/05/1963-Alfred-University-Yearbook-Kanakadea.pdf) [![1963 Alfred University Yearbook Kanakadea Cover](/wp-content/uploads/2015/05/1963-Alfred-University-Yearbook-Kanakadea-Cover-232x300.png)](/wp-content/uploads/2015/05/1963-Alfred-University-Yearbook-Kanakadea.pdf) Scanned and roughly 200 pages (so damaged) OCR to be searchable but still 26MB
+[1963 Alfred University Yearbook Kanakadea](/assets/img/uploads/2015/05/1963-Alfred-University-Yearbook-Kanakadea.pdf) [![1963 Alfred University Yearbook Kanakadea Cover](/assets/img/uploads/2015/05/1963-Alfred-University-Yearbook-Kanakadea-Cover-232x300.png)](/assets/img/uploads/2015/05/1963-Alfred-University-Yearbook-Kanakadea.pdf) Scanned and roughly 200 pages (so damaged) OCR to be searchable but still 26MB

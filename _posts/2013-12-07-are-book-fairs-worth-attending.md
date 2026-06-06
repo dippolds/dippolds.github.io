@@ -19,4 +19,4 @@ Many cities hold book fairs where a large number of authors promote and sell the
 - Impetuous to look at books you normally wouldn't consider in a large store or website
 - Access self- published books from interesting characters
  
- [![20131207-150346.jpg](/wp-content/uploads/2013/12/20131207-150346.jpg)](/wp-content/uploads/2013/12/20131207-150346.jpg) When attending keep in mind even the most notable authors are not really making money but rather seeking exposure and engagement with readers.
+ [![20131207-150346.jpg](/assets/img/uploads/2013/12/20131207-150346.jpg)](/assets/img/uploads/2013/12/20131207-150346.jpg) When attending keep in mind even the most notable authors are not really making money but rather seeking exposure and engagement with readers.

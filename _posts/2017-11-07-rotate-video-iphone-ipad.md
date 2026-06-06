@@ -47,5 +47,5 @@ format: false
 If you start recording a video and switch the orientation, the video will not be rotated. You can rotate the video after it is shot using [iMovie that is free from the App store](https://itunes.apple.com/us/app/imovie/id377298193?mt=8). The general steps are as follows;
 
 1. Make sure the video is in your camera roll. If you took the video on the device it will be there already. If the video is in Google Drive or another location, you will need to save it to the camera roll.
-2. Open iMovie and add the video clip. Take 2 fingers and rotate the video on the screen. [![](/wp-content/uploads/2017/11/imovie_rotate.jpg)](/wp-content/uploads/2017/11/imovie_rotate.jpg)
+2. Open iMovie and add the video clip. Take 2 fingers and rotate the video on the screen. [![](/assets/img/uploads/2017/11/imovie_rotate.jpg)](/assets/img/uploads/2017/11/imovie_rotate.jpg)
 3. Save the video and export it to your camera roll.

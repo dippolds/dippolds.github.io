@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-Use a large number of cans to create art and awareness of hunger. [![IMG_2914](/wp-content/uploads/2013/11/IMG_2914.jpg)](/wp-content/uploads/2013/11/IMG_2914.jpg) [![IMG_2928](/wp-content/uploads/2013/11/IMG_2928.jpg)](/wp-content/uploads/2013/11/IMG_2928.jpg) [![IMG_2920](/wp-content/uploads/2013/11/IMG_2920-e1384228940163.jpg)](/wp-content/uploads/2013/11/IMG_2920.jpg)
+Use a large number of cans to create art and awareness of hunger. [![IMG_2914](/assets/img/uploads/2013/11/IMG_2914.jpg)](/assets/img/uploads/2013/11/IMG_2914.jpg) [![IMG_2928](/assets/img/uploads/2013/11/IMG_2928.jpg)](/assets/img/uploads/2013/11/IMG_2928.jpg) [![IMG_2920](/assets/img/uploads/2013/11/IMG_2920-e1384228940163.jpg)](/assets/img/uploads/2013/11/IMG_2920.jpg)

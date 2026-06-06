@@ -24,4 +24,4 @@ categories:
 format: false
 ---
 
-<div>[![](/wp-content/uploads/2013/10/blogger-image-96533144.jpg)](/wp-content/uploads/2013/10/blogger-image-96533144.jpg)</div>
+<div>[![](/assets/img/uploads/2013/10/blogger-image-96533144.jpg)](/assets/img/uploads/2013/10/blogger-image-96533144.jpg)</div>

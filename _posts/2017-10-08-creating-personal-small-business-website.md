@@ -39,7 +39,7 @@ sbg_selected_sidebar:
     - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
     - 'a:1:{i:0;s:1:"0";}'
-image: /wp-content/uploads/2017/10/website_template-680x330.png
+image: /assets/img/uploads/2017/10/website_template-680x330.png
 categories:
     - Tech
 format: false
@@ -51,7 +51,7 @@ Most small businesses and many people want to have a website. The key considerat
 
  Roughly 30% of websites on the internet use Wordpress. Wordpress is either free software that you run on a hosting company server or a paid service setup at Wordpress.com. Wordpress is the **cheapest and most technical solution** which is why many companies and businesses use it. [Prices start at $48 per year](https://wordpress.com/pricing/). The downside to Wordpress is it can get complicated choosing what you want and adding features like shopping. You won't find much you can't do but you will invest a lot of time learning. ## [Wix](https://www.wix.com/)
 
- Wix is a popular option for setting up a website quickly. While not as flexible as Wordpress, it comes with shopping and you will have your website **setup in minutes**. You basically pick a style for your website and start adding pictures and text. [Prices start at $120/year](http://www.wix.com/upgrade/premium-plans). ## [![](/wp-content/uploads/2017/10/website_template.png)](/wp-content/uploads/2017/10/website_template.png)
+ Wix is a popular option for setting up a website quickly. While not as flexible as Wordpress, it comes with shopping and you will have your website **setup in minutes**. You basically pick a style for your website and start adding pictures and text. [Prices start at $120/year](http://www.wix.com/upgrade/premium-plans). ## [![](/assets/img/uploads/2017/10/website_template.png)](/assets/img/uploads/2017/10/website_template.png)
 
 ## [SquareSpace](https://www.squarespace.com/)
 

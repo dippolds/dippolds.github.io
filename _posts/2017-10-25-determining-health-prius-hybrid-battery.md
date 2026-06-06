@@ -39,7 +39,7 @@ sbg_selected_sidebar:
     - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
     - 'a:1:{i:0;s:1:"0";}'
-image: /wp-content/uploads/2017/10/prius_obd2_config-680x330.jpg
+image: /assets/img/uploads/2017/10/prius_obd2_config-680x330.jpg
 categories:
     - DIY
     - Tech
@@ -69,8 +69,8 @@ Hybrid car batteries are reliable but eventually wear out. I have a 2005 Prius w
 2. Buy and install the app. The [OBC Fusion App](https://itunes.apple.com/us/app/obd-fusion/id650684932) is $10 and requires a Toyota add-in purchase inside the app ($10) to read the extended codes.
 3. Turn on the car and click Connect within the OBC Fusion app.
 4. Click Diagnostics, PID Values, Menu, Select PIDs, Toyota-Lexus-Scion. This allows you to pick what you want to monitor.
-5. Click HV Battery, then turn on Battery Block Max Voltage and Battery Block Min Voltage. Also turn on Battery State of Charge for fun. [![](/wp-content/uploads/2017/10/prius_obd2_config.jpg)](/wp-content/uploads/2017/10/prius_obd2_config.jpg)
-6. You can drive around and see the voltage change. When you are at a stop and the ICE engine is off, take a snapshot of the screen or write down the 2 voltages. Do this several times when the battery is near fully charged and when low. Don't take readings while the engine is on or your are braking. Some places recommend putting the car in reverse with the brake on and the ICE engine off to get better readings. Here are my readings;[![](/wp-content/uploads/2017/10/prius_voltage-1.jpg)](/wp-content/uploads/2017/10/prius_voltage-1.jpg) [![](/wp-content/uploads/2017/10/prius_voltage-2.jpg)](/wp-content/uploads/2017/10/prius_voltage-2.jpg) [![](/wp-content/uploads/2017/10/prius_voltage-3.jpg)](/wp-content/uploads/2017/10/prius_voltage-3.jpg)
+5. Click HV Battery, then turn on Battery Block Max Voltage and Battery Block Min Voltage. Also turn on Battery State of Charge for fun. [![](/assets/img/uploads/2017/10/prius_obd2_config.jpg)](/assets/img/uploads/2017/10/prius_obd2_config.jpg)
+6. You can drive around and see the voltage change. When you are at a stop and the ICE engine is off, take a snapshot of the screen or write down the 2 voltages. Do this several times when the battery is near fully charged and when low. Don't take readings while the engine is on or your are braking. Some places recommend putting the car in reverse with the brake on and the ICE engine off to get better readings. Here are my readings;[![](/assets/img/uploads/2017/10/prius_voltage-1.jpg)](/assets/img/uploads/2017/10/prius_voltage-1.jpg) [![](/assets/img/uploads/2017/10/prius_voltage-2.jpg)](/assets/img/uploads/2017/10/prius_voltage-2.jpg) [![](/assets/img/uploads/2017/10/prius_voltage-3.jpg)](/assets/img/uploads/2017/10/prius_voltage-3.jpg)
 7. For the readings you made, subtract the minimum voltage from the maximum. In the above example, the difference is between .09 and .14 volts.
 8. Use the above table to see the health of your battery. In the above example, the table indicates the battery is still 100% efficient even after 250k miles.
  

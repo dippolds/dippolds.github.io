@@ -17,7 +17,7 @@ format: false
  Accessing a QNAP network attached storage (NAS) file directory from macOS Finder could take 15-30 seconds. ### Solution
 
 1. in Finder, Open the root level of share
-2. click View, and uncheck Show Icon Preview. Then click **Use as Defaults**[![](/wp-content/uploads/2017/04/osx_show_icon_preview.png)](/wp-content/uploads/2017/04/osx_show_icon_preview.png)
+2. click View, and uncheck Show Icon Preview. Then click **Use as Defaults**[![](/assets/img/uploads/2017/04/osx_show_icon_preview.png)](/assets/img/uploads/2017/04/osx_show_icon_preview.png)
  
 ### Rational
 

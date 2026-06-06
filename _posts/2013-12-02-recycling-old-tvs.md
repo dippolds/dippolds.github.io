@@ -12,7 +12,7 @@ categories:
 format: false
 ---
 
-LCD TV's use about half the energy of CRT televisions when on. However, most LCD's use a small amount of electricity when off. Overall, LCD's are more efficient and preferred by most people. Older TV's also have a variety of toxic components and metals that may be reused. The are options to properly dispose of old electronics (e-Waste) driven by laws or promotion. [![20131130-091707.jpg](/wp-content/uploads/2013/11/20131130-091707-e1385822814202.jpg)](/wp-content/uploads/2013/11/20131130-091707-e1385822814202.jpg)
+LCD TV's use about half the energy of CRT televisions when on. However, most LCD's use a small amount of electricity when off. Overall, LCD's are more efficient and preferred by most people. Older TV's also have a variety of toxic components and metals that may be reused. The are options to properly dispose of old electronics (e-Waste) driven by laws or promotion. [![20131130-091707.jpg](/assets/img/uploads/2013/11/20131130-091707-e1385822814202.jpg)](/assets/img/uploads/2013/11/20131130-091707-e1385822814202.jpg)
 
 | **Criteria** | **Try** | **More information** |
 |---|---|---|

@@ -48,7 +48,7 @@ format: false
 
 We traveled in August during the New Zealand winter. There weren't many tourists so it was easy to find nice places to stay using AirBnB. Our route was Christchurch, Oamaru, Dunedin, Te Anau, Queenstown, Hokitika, Kaikōura, then return to Christchurch.
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2023/01/New-Zealand-South-Island-route.png)</figure>## Transportation
+<figure class="wp-block-image size-full">![](/assets/img/uploads/2023/01/New-Zealand-South-Island-route.png)</figure>## Transportation
 
 We rented a car from the airport at Christchurch. Driving was easy. As most roads are 2 lanes, during busy seasons you may get stuck behind a slow moving camper.
 
