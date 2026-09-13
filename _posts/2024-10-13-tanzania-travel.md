@@ -12,7 +12,7 @@ categories:
 format: false
 ---
 
-There are a variety of travel loops to consider in Iceland including the golden circle (1-3 days), ring road (7+ days), western fjords, north, east, and south.
+Safari in Tanzania is an incredible experience!
 
 ## Getting to Tanzania
 
