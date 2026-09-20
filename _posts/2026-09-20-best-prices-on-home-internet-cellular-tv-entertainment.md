@@ -25,11 +25,12 @@ Home dial-up voice — largely gone these days, as most people use their cellpho
 
 ## How companies complicate things to get more money out of you
 
-* Bundling the services together. This almost never works out for the consumer, because you end up paying for things you don't use. Before agreeing to a bundle, itemize what you actually want.
-* Introductory offers. Companies often raise the price after 1 year. If you try to get out of a long contract, there may also be a penalty. Check both before being tempted by the “deal.”
-* Discounts on a phone or router. It is almost never a good financial decision to rent or get a free phone from a carrier. They are simply charging you more each month, and after paying for the phone, they keep reaping the rewards. Also, carriers often lock phones to their network, so you can't switch carriers without getting them to unlock the phone. Simply buy the phone. If you can't afford it, you are probably buying a device that is too expensive for your income or not managing your money well.
-* Personal service is a cost and a choice. If you want to walk into a store and have someone help you, that costs the company. So what you pay will be higher. If you want to pay less, you take on the risk and hassle yourself.
-* Internet speed. Almost nobody needs more than 50 Mbps, and most basic plans are already greater than 200 Mbps. The catch is that if you have 3 people in your house, some companies will push you toward 1000 Mbps. Get the lowest price for 50 Mbps or greater. In some very rural places, 50 Mbps is already a challenge.
+* **Bundling the services together**. This almost never works out for the consumer, because you end up paying for things you don't use. Before agreeing to a bundle, itemize what you actually want.
+* **Introductory offers**. Companies often raise the price after 1 year. If you try to get out of a long contract, there may also be a penalty. Check both before being tempted by the “deal.”
+* **Discounts on a phone or router**. It is almost never a good financial decision to rent or get a free phone from a carrier. They are simply charging you more each month, and after paying for the phone, they keep reaping the rewards. Also, carriers often lock phones to their network, so you can't switch carriers without getting them to unlock the phone. Simply buy the phone. If you can't afford it, you are probably buying a device that is too expensive for your income or not managing your money well.
+* **Personal service** is a cost and a choice. If you want to walk into a store and have someone help you, that costs the company. So what you pay will be higher. If you want to pay less, you take on the risk and hassle yourself.
+* **Internet speed.** Almost nobody needs more than 50 Mbps, and most basic plans are already greater than 200 Mbps. The catch is that if you have 3 people in your house, some companies will push you toward 1000 Mbps. Get the lowest price for 50 Mbps or greater. In some very rural places, 50 Mbps is already a challenge.
+* **Unlimited Cellular** - This is a tricky one. Many people use very little data. Some use a lot. If you watch movies or listen to music, you could use a lot. You phone has statistics about how much you use. Don't get too much data or unlimited unless you really need it.
 
 ## Suggestions
 
