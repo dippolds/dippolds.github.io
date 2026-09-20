@@ -41,7 +41,7 @@ Home dial-up voice — largely gone these days, as most people use their cellpho
 5. Devices — there are 3 main devices you need: a cell phone (make sure it is unlocked when you buy it), a streaming box (like Roku or Apple TV, or what is built into a modern TV), and a router (which gives your house a Wi‑Fi signal). Costs are $250-$1000, $75, and $75 respectively. Buy them and don't rent!
 
 
-## What are my services?
+## What are my devices?
 * iPhone - Replace every 4 years. Cost about $650 or about $15/month
 * Apple TV - Replace every 6 years. Cost is about $150 or $2/month
 * Router - eero (3-4) Replace every 5 years. Cost is about $300 or $500. Note Verizon FIOS includes a router for $100 so the eero is not needed for most people. $5/month
