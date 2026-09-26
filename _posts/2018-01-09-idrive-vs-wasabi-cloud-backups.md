@@ -44,7 +44,7 @@ categories:
     - DIY
     - Tech
 tags:
-    - backup
+    - Tech
 format: false
 ---
 

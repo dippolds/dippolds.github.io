@@ -10,7 +10,7 @@ permalink: /2016/11/15/travel-new-south-wales-queensland-australia-2-weeks/
 categories:
     - Travel
 tags:
-    - Australia
+    - Travel
 format: false
 ---
 

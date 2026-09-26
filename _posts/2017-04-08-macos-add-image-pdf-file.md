@@ -10,7 +10,7 @@ permalink: /2017/04/08/macos-add-image-pdf-file/
 categories:
     - Tech
 tags:
-    - pdf
+    - Tech
 format: false
 ---
 

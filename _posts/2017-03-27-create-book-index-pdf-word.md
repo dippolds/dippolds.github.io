@@ -10,9 +10,7 @@ permalink: /2017/03/27/create-book-index-pdf-word/
 categories:
     - Tech
 tags:
-    - pdf
-    - word
-    - writing
+    - Tech
 format: false
 ---
 

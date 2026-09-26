@@ -10,8 +10,7 @@ permalink: /2017/02/15/mumbai-india-best-travel-sights/
 categories:
     - Travel
 tags:
-    - Mumbai
-    - travel
+    - Travel
 format: false
 ---
 

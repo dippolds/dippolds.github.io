@@ -11,7 +11,7 @@ image: /assets/img/uploads/2017/02/DSC_3215-940x198.jpg
 categories:
     - Travel
 tags:
-    - travel
+    - Travel
 format: false
 ---
 
