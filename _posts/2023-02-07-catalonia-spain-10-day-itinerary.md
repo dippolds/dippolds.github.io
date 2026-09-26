@@ -43,7 +43,13 @@ What could have been skipped? Olot, Livia, Sallent - basically nothing open and 
 
 38 minutes with a map at the end.
 
-{% include embed/youtube.html id='rXHpj5NuUmM' %}  Tools
+{% include embed/youtube.html id='rXHpj5NuUmM' %} 
+
+
+
+
+
+## Tools
 
 Booking.com – convenient way to find and book hotels and apartments  
 AirBnB - 2 places  
