@@ -7,40 +7,8 @@ excerpt: ''
 layout: post
 guid: 'https://seandippold.com/?p=1353'
 permalink: /2023/02/07/catalonia-spain-10-day-itinerary/
-evolve_sidebar_position:
-    - default
-evolve_full_width:
-    - 'no'
-evolve_hundredp_padding:
-    - ''
-evolve_page_title:
-    - titlebar_breadcrumb
-evolve_page_title_bar_bg_color:
-    - ''
-evolve_page_title_bar_bg:
-    - ''
-evolve_page_title_bar_bg_retina:
-    - ''
-evolve_page_title_bar_full_bg:
-    - default
-evolve_page_title_bar_parallax_bg:
-    - default
-evolve_widget_page:
-    - 'no'
-evolve_slider_position:
-    - default
-evolve_slider_type:
-    - 'no'
-evolve_revslider:
-    - '0'
-evolve_wooslider:
-    - '0'
-sbg_selected_sidebar:
-    - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-    - 'a:1:{i:0;s:1:"0";}'
 categories:
-    - Lazy
+    - Travel
 format: false
 ---
 
@@ -52,7 +20,7 @@ A direct flight from New York (JFK) to Barcelona is very cheap in late January -
 
 ## Activities and Lodging
 
-We stayed at both hotels and apartments booked through Bookings.com and AirBnB. All were great and most were booked hours before we arrived at each location. [Every site, hotel, and restaurant is listed here on TripAdvisor.](https://www.tripadvisor.com/Trips/120637229?m=19905) Lodging was reasonable around 100-150 euros per night.
+We stayed at both hotels and apartments booked through Bookings.com and AirBnB. All were great and most were booked hours before we arrived at each location. [Every site, hotel, and restaurant is listed here on Google Maps.](https://maps.app.goo.gl/x2CetkAsjGr9MmA2A) Lodging was reasonable around 100-150 euros per night.
 
 ![Desktop View](/assets/img/uploads/2023/02/Catalonia-trip-outline-1024x653.png)Day 1-3 - Arrive at Barcelona airport and drive 1 hour to Girona. Parking was free but outside the medieval area. Girona is a very intact medieval city and we ended up deciding to stay another day twice. We were in 3 different 500+ year old apartments near the cathedral that were wonderful but cool as can be expected. Key activity is wandering the narrow streets. Many locations in the city appear in the Game of Thrones series. The cathedral, Arab Baths (3 euros), walking the city walls, art museum, and the bridges over the river are key sites.
 
