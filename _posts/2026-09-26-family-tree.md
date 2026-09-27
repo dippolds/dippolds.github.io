@@ -9,7 +9,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/img/devices-mockup.png
+  path: /assets/familytree/resources/Media_7885438.jpeg
   alt: Export of Sean Dippold family tree from 2018
 ---
 
