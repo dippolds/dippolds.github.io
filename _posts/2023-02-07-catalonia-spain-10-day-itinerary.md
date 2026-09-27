@@ -37,6 +37,8 @@ Day 5 - Drive into the Pyrenees mountains toward Puigcerda. The mountains are hi
 Day 8-10 - We had found a hotel on La Rambla with a parking garage. Driving in Barcelona isn't fun so we were happy not to have to worry about the car or getting back to the airport. We had been to Barcelona in 2004 and forgot many things we had seen like the Arc d Triumph. Saglia Familia (29 euros) is also very different as the inside is fully open providing a more amazing experience. Like Girona, spend a lot of time just walking around but see sites like the art museum (free 1st Sunday), cathedral (15 euros), Guadi-designed house Casa Batlló (39 euros not worth it), &amp; Picasso Museum.
 
 ![Desktop View](/assets/img/uploads/2023/02/IMG_0913-1024x768.jpg)Barcelona Cathedral
+
+
 What could have been skipped? Olot, Livia, Sallent - basically nothing open and sites of interest not marked. Casa Batlló in Barcelona was not worth the high admission cost and was gimmicky.
 
 ## Video
